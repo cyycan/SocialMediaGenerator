@@ -6,3 +6,4 @@ langchain-openai
 trafilatura
 openpyxl
 altair<5
+imghdr
