@@ -1,0 +1,7 @@
+pandas
+streamlit
+openai
+langchain
+langchain-openai
+trafilatura
+openpyxl
