@@ -5,3 +5,4 @@ langchain
 langchain-openai
 trafilatura
 openpyxl
+altair<5
