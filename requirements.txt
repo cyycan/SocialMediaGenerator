@@ -1,9 +1,7 @@
+streamlit>=1.30
 pandas
-streamlit
+openpyxl
 openai
 langchain
 langchain-openai
 trafilatura
-openpyxl
-altair<5
-imghdr
